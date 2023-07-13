@@ -5,6 +5,9 @@ tqdm==4.65.0
 requests==2.31.0
 molmass==2023.4.10
 scipy==1.10.1
+brainpy==2.4.2
+jaxlib==0.4.13
+numba==0.57.1
 ## The following requirements were added by pip freeze:
 certifi==2023.5.7
 charset-normalizer==3.2.0
