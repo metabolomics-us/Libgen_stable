@@ -5,7 +5,7 @@ tqdm==4.65.0
 requests==2.31.0
 molmass==2023.4.10
 scipy==1.10.1
-brainpy==2.4.2
+# brainpy==2.4.2
 jaxlib==0.4.13
 numba==0.57.1
 rdkit==2023.3.2
